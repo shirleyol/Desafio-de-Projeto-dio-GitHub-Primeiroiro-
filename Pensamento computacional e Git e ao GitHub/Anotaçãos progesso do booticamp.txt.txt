@@ -1,0 +1,21 @@
+pensamento-computacional : é o processo de entender aspectos da computação em nosso mundo e aplicar ferramentas e técnicas para facilitar sistemas e processos. Na escola, pode ser exemplificado quando alunos resolvem problemas, dividindo-os em parte e utilizando a lógica.
+
+Decomposição
+Essa habilidade refere-se à capacidade de dividir um problema maior em partes menores. Assim, ao trabalhar cada parte de uma vez, fica mais fácil de o(a) aluno(a) entender o problema e resolvê-lo. A vantagem é que diminui a ansiedade e o medo de enfrentar os desafios. No caso da elaboração de um grande projeto escolar, a decomposição é aplicada quando o(a) estudante se organiza e se propõe a fazer uma parte a cada semana.
+
+Abstração
+A abstração propõe o foco nos processos importantes em vez de priorizar os detalhes. Dessa forma, a solução pode ser válida para vários problemas diferentes. Ao aplicá-la na área educacional, o(a) aluno(a) entende como realizar exercícios mais rapidamente e pode usar essas técnicas em matérias diferentes, por exemplo.
+
+Reconhecimento de padrões
+O reconhecimento de padrões é outro princípio fundamental do pensamento computacional. Ao realizá-lo, a criança consegue identificar tendências de comportamento e similaridades. A partir disso, é possível pensar em novas soluções, utilizando inovação e criatividade.
+
+Pensamento algorítmico
+A palavra algoritmo remete ao seu contexto computacional, mas ele também pode ser empregado para simbolizar a criação de passos e soluções até alcançar um objetivo. É a utilização da lógica e da racionalidade para a solução de problemas.
+
+Quais são as vantagens do pensamento computacional?
+O pensamento computacional traz várias vantagens para as crianças e ajuda no desenvolvimento sociocognitivo do indivíduo. Esse conceito não apenas prepara os jovens para identificar informações, como também para produzir algo importante a partir desses conceitos e aplicá-los em seu cotidiano.
+
+Git Git/Hub
+O Git é um sistema de controle de versão distribuído . Isso significa que se você está trabalhando em um ambiente de equipe, com outros desenvolvedores e programadores, todo o código que você e seus colegas escrevem será compartilhado entre todos vocês (isso significa que todos saberão quando uma mudança for feita no código). Trabalhando em uma empresa, esse é um ótimo recurso, pois permite que tudo aconteça de maneira muito mais rápida e fluida.
+
+Em outras palavras, o Git é uma ferramenta que é usada para facilitar a vida de um programador, enquanto o GitHub é um serviço que é usado para hospedar projetos Git. Uma boa maneira de entender isso é o fato de que existe apenas um “Git
